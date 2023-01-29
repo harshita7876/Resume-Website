@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+    Creating An Resume
+  </title>
+  </head>
+  <body>
+    <fieldset>
+    <table cellspacing=10px>
+      <tr> 
+        <td>
+      <img src="resumeImg1.png" alt="Not working!" width="250" > </td>
+      <td>
+        <h1>Harshita Sharma </h1>
+      <p><em> <b>Software Engineer</b></em>
+        <br>
+            <em>Undergraduate Engineering Student with a focus on
+            programming and Data Analysis skills. I am hardworking, diligent, and put my all                   qualities forward in everything I do. Bringing forth a positive attitude,                 willingness, and motivation to
+            learn new technologies </em></p>
+      </td>
+                                               
+</td>
+<table> 
+<tr>
+
+    <label> Email:</label>
+    <a href ="mailto:harshita7876@gmail.com">harshita7876@gmail.com</a>
+
+    <label> LinkedIn:</label>
+    <a href ="https://www.linkedin.com/in/harshita-sharma-51a3391b1/">Harshita-Sharma </a>
+    
+   <label> GitHub:</label>
+    <a href ="https://github.com/harshita7876">harshita7876 </a> 
+     
+  
+</tr>
+  </table>
+      </tr>
+    </table>
+</table>
+      <table>
+        <h2>Education and BackGround:</h2>
+        <p><b>Lovely Professional University (LPU), Punjab</b>
+
+Bachelor of Technology in computer Science and Engineering with <b>8.36 cgpa</b>[2020-2024] With 
+<b> Technical Courses:</b><em>Data Structures and Algorithms. Operatine Svstems. Database Management Systems Object Oriented Programming, Computer Networks, Analysis and Design of Algorithms </em></p>
+      </table>
+
+<table>
+  <tr>
+    <td>
+  <h2>Licenses and Certifications:</h2>
+  • <a href="https://drive.google.com/file/d/11IIHxumv1w77G4xEJO6AczsoVXJ0Xr3K/view?usp=share_link" target="_blank">Web Development By GirlScript</a>
+  <br>
+  • <a href="https://drive.google.com/file/d/1NoEhezbAbwzyU_wPDdwd3lTp7Q9nX7T9/view?usp=share_link" target="_blank">Microsoft Virtual Internship Program</a>
+  <br>
+  • <a href="https://drive.google.com/file/d/13U5Spl0G_JBBMPEENWJA93mKMl-rzm5v/view?usp=share_link" target="_blank">Python Learning By LinkedIn</a>
+  <br>
+  • <a href="https://drive.google.com/file/d/1rMbDn27eetfLMips4fIEOQzi7Cjd2adu/view?usp=share_link" target="_blank">Basics of Machine Learning By SimpliLearn</a>
+  <br>
+  • <a href="#"target="_blank">Full Stack Web Development By Angela Yu</a>
+  <br>
+  </td>
+  <td>
+<h2> Skills And Technology:</h2>
+    <p><b>Languages:</b> HTML, CSS,Bootsrap,JavaScript,JQuery,NodeJs,ReactJs, SQL,MongoDb,Mongoose, C++, Python,[R,C and JAVA Basics] </p>
+    <p><b>Libraries:</b> Django, Matplotlib, Pandas, NumPy, Servlet </p>
+<h2> Tools:</h2>
+    <p><b>Tools:</b> Github, VSCode, Tableau, Excel, Eclipse </p>
+
+  </td>
+
+  </tr>
+</table>
+
+<table>
+  <h2> Technical Projects And Work Experience:</h2>
+  <p>
+    • <a href="#"target="_blank">Resume Website</a>
+    <br>
+    • <a href="#"target="_blank">Dicee and Simon Game</a>
+     <br>
+    • <a href="#"target="_blank">Decentralised Fiance Website</a>
+     <br>
+    • <a href="#"target="_blank">Creation of ICP Live Blockchain </a>
+     <br>
+    • <a href="#"target="_blank"> Minting NFTs and Building an NFT Marketplace like OpenSea</a>
+     <br>
+    • <a href="#"target="_blank">Building DApps on ICP with a React Frontend</a>
+  </p>
+  
+</table>
+     
+  </body>
+  </fieldset>
+</html>
